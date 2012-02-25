@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DialogActivity!</string>
+    <string name="app_name">Dialog</string>
+    <string name="button">Button</string>
+    <string name="choice">choice</string>
+    <string name="start_dawnloading">start dawnloading</string>
+
+</resources>
